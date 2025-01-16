@@ -7,5 +7,9 @@ $amount.oninput = () => {
 };
 
 let formatCurrencyBRL = (value) => {
-    value = value.toLocaleString("pt-BR")
+  value = value.toLocaleString("pt-BR", {
+    style: "currency",
+    currency: "BRL",
+  })
+  return value
 };
