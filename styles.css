@@ -50,9 +50,12 @@ form {
   border-radius: 1rem;
   padding: 2.5rem;
   max-width: 462px;
-
   display: flex;
   flex-direction: column;
+}
+
+form, aside{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 form h1 {
@@ -93,6 +96,7 @@ select {
   color: #1f2523;
   background-color: transparent;
   outline: none;
+  cursor: pointer;
 }
 
 select {
@@ -315,3 +319,4 @@ aside ul {
     align-items: center;
   }
 }
+
