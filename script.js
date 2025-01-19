@@ -3,6 +3,7 @@ const $amount = document.querySelector("#amount");
 
 $amount.oninput = () => {
   let value = $amount.value.replace(/\D/g, "");
+  value = Number(value) / 100
   $amount.value = formatCurrencyBRL(value);
 };
 
