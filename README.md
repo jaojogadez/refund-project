@@ -1,8 +1,11 @@
 # Projeto Lista de Despesas
 ![Design preview for the home web site](./desing/template.png)
 
+
 ## Sobre 👋
+
 Esse projeto aplica um sistema de CRUD completo, abordando funções de criar, ler, atualizar e deletar elementos HTML por meio do JavaScript, simulando uma lista de despesas.
+![Design preview for the home web site](./desing/active.png)
 
 ## Tecnologias 🚀
 <span>
@@ -10,6 +13,7 @@ Esse projeto aplica um sistema de CRUD completo, abordando funções de criar, l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
 </span>
+
 
 ## Acesse aqui🔥
 https://jaojogadez.github.io/refund-project/
