@@ -260,8 +260,6 @@ aside ul {
 
 .remove-icon {
   height: 1rem;
-  margin-left: 0.5rem;
-
   cursor: pointer;
   transition: opacity 0.2s;
 }
@@ -269,6 +267,19 @@ aside ul {
 .remove-icon:hover {
   opacity: 0.7;
 }
+
+.bi-pencil-square{
+  color: royalblue;
+  margin: 0 5px;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.bi-pencil-square:hover{
+  opacity: 0.7;
+}
+
 
 @media (min-width: 1100px) {
   form {
